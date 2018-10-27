@@ -1,0 +1,28 @@
+display: red;
+ul li{
+	color:green;
+}
+
+.cl5 li{
+	color:#dedede;
+}
+li:hover{
+	color:moccasino;
+}
+
+li:before{
+	content: ">"
+}
+  /*list style type: after{*/
+ /*content: "&"*/
+ /*}*/
+ li:nth-child(2n+1){
+ 	color:blue;
+ }
+ li #id22.cl5{
+ 	color:green;
+ }
+
+ .cl5{
+ 	color:red;
+ }
